@@ -1,5 +1,5 @@
 **The code for first STM32 board to interface with different sensors and wirelessly interact with other stm32 board**
-cpp
+
 ```
 // main.c - Board 1 TX side
 // Uses: NRF24L01 lib, HC-SR04, MPU-6050, button
